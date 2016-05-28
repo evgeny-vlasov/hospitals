@@ -1,4 +1,4 @@
-## hospitals
+# hospitals
 ### Coursera assignment
 
 The data for this assignment come from the Hospital Compare web site (http://hospitalcompare.hhs.gov)
